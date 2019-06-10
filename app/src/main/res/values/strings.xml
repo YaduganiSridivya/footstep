@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Footsteps</string>
+    <string name="login">Login</string>
+    <string name="email">email</string>
+    <string name="Email">Email</string>
+    <string name="password">password</string>
+    <string name="LOGIN">LOGIN</string>
+    <string name="signup">TextView</string>
+    <string name="SIGNUP">SIGNUP</string>
+    <string name="NAME">name</string>
+    <string name="PASSWORD">password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="already_sign_in_can_login">already sign in can login</string>
+    <string name="Qualification">Qualification</string>
+</resources>

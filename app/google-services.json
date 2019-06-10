@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "236712437703",
+    "firebase_url": "https://footstep-c6bc4.firebaseio.com",
+    "project_id": "footstep-c6bc4",
+    "storage_bucket": "footstep-c6bc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236712437703:android:20fc7f1bc80ddfe8",
+        "android_client_info": {
+          "package_name": "com.example.footsteps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236712437703-tids31n3f6jt2uce4ajr1qmjk07ttmie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI6bI2GQ-SYhBgKun0BXcExQCjVGn9R7U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
